@@ -1,0 +1,2 @@
+D:\hoc\GitHub\WAD\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\hoc\GitHub\WAD\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
