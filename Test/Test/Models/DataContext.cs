@@ -8,8 +8,8 @@ namespace Test.Models
 {
     public class DataContext : DbContext
     {
-        public DataContext() : base("Test") { }
+        public DataContext() : base("test") { }
 
-        public DbSet<Contacts> Contact { get; set; }
+        public DbSet<Contacts> Contacts { get; set; }
     }
 }

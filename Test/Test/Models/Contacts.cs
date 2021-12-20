@@ -17,8 +17,8 @@ namespace Test.Models
         [Required(ErrorMessage = "Vui long nhap ten nhom")]
         public string GroupName { get; set; }
         [Required(ErrorMessage = "Vui long nhap ngay thue")]
-        public DateTime HireDate { get; set; }
+        public String HireDate { get; set; }
         [Required(ErrorMessage = "Vui long nhap ngay sinh")]
-        public DateTime Birthday { get; set; }
+        public String Birthday { get; set; }
     }
 }
